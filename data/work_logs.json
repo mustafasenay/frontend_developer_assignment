@@ -1,4 +1,5 @@
-[{"id":1,"employee_id":1,"project_id":9,"date":"2019-07-27","hours":1,"description":"dui nec nisi volutpat eleifend donec ut dolor morbi"},
+[
+    {"id":1,"employee_id":1,"project_id":9,"date":"2019-07-27","hours":1,"description":"dui nec nisi volutpat eleifend donec ut dolor morbi"},
 {"id":2,"employee_id":4,"project_id":1,"date":"2019-06-11","hours":3,"description":"molestie sed justo pellentesque viverra pede"},
 {"id":3,"employee_id":5,"project_id":1,"date":"2019-04-13","hours":3,"description":"justo sit amet sapien dignissim vestibulum vestibulum"},
 {"id":4,"employee_id":2,"project_id":8,"date":"2019-02-17","hours":1,"description":"primis in faucibus orci luctus et ultrices"},
